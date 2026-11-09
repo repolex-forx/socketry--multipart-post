@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/socketry/multipart-post/commit/cce3634876b74e08a6c51d02db00070a82dc8cc4",
       "git:hexsha": "cce3634876b74e08a6c51d02db00070a82dc8cc4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/socketry/multipart-post/commit/726081db47151a140f2205fc4deb8cfcdfaedd36",
